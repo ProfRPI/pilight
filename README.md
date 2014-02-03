@@ -11,4 +11,5 @@ Added
 -----
 
 generic_wattmeter
+
 generic_webcam
