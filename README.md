@@ -5,3 +5,10 @@ pilight version 2.1
 <a href="https://flattr.com/submit/auto?user_id=pilight&url=http%3A%2F%2Fwww.pilight.org" target="_blank"><img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
 
 Visit http://www.pilight.org or http://wiki.pilight.org for more information.
+
+
+Added
+-----
+
+generic_wattmeter
+generic_webcam
